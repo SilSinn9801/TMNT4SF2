@@ -1,7 +1,6 @@
-TMNT4SF2 is created by Pezbeth using the original SNES ROM samples.
+TMNT4SF2 was a MIDI soundfont created by Pezbeth using the original SNES ROM samples.
 
-My Soundcloud:
-https://soundcloud.com/pezbeth
+Repository transferred to SilSinn9801 merely for safekeeping and for historical purposes; no longer in active development.
 
 MIDIs from:
 https://www.vgmusic.com/music/console/nintendo/snes/
